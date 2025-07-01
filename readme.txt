@@ -6,8 +6,7 @@ This repository contains scripts and datasets associated with the paper:
 Authors: M. Yasko, A. Moussa, F. Tian, H. Kazmi, J. Driesen, and W. Martinez  
 Institution: KU Leuven / EnergyVille, Thor Park 8310, Genk, Belgium  
 Last updated: 2025-06-12  
-Contact: mohamed.yasko@kuleuven.be
-
+Contact: mohamed.yasko@kuleuven.be, yaskomht@gmail.com, yasko@ieee.org
 ---
 
 - `data_illustration/` — Python scripts for generating figures and illustrative plots used in the publication
