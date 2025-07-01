@@ -1,6 +1,8 @@
-# BEV energy dynamics dataset
 
-This repository contains scripts and datasets associated with the paper:
+
+## This repository contains scripts and datasets associated with the paper:
+
+
 
  **Unveiling Energy Dynamics of Battery Electric Vehicles Using High-Resolution Data**  
 Authors: M. Yasko, A. Moussa, F. Tian, H. Kazmi, J. Driesen, and W. Martinez  
@@ -23,3 +25,5 @@ Contact: mohamed.yasko@kuleuven.be, yaskomht@gmail.com, yasko@ieee.org
 
 ---
 
+Repo:
+Aboubacar Yasko, Mohamed; Moussa Issaka, Adamou; Tian, Fanghao; Kazmi, Hussain Syed; Driesen, Johan; Martinez Martinez, Wilmar, 2025, "BEV energy dynamics dataset", https://doi.org/10.48804/8KPDTW, KU Leuven RDR, V1
